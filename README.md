@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 there</h1>
 <h3 align="center">A boy who follows his dreams</h3>
+- I'm a passionate mobile developer who thrives on tackling challenges and finding elegant solutions. My journey began with C++ and C#, but the world of native Android development truly captivated me. Always eager to learn, I've recently dipped my toes into the exciting realm of multi-platform development with Flutter.
 
 - 📫 How to reach me **shossein.dev@gmail.com**
 
