@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋</h2>
-<br/><br/>
+
 <h3> 👨🏻• About Me </h3>
 <p> I'm a passionate mobile developer who thrives on tackling challenges and finding elegant solutions. My journey began with C++ and C#, but the world of native Android development truly captivated me. Always eager to learn, I've recently dipped my toes into the exciting realm of multi-platform development with Flutter. </p>
 <hr>
